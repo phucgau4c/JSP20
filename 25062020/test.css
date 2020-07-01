@@ -1,0 +1,17 @@
+#a {
+    float: left;
+    width: 300px;
+}
+
+#b{
+    float: right;
+    width: 200px;
+    height: 50px;
+    border: 2px solid;
+    text-align: center;
+    padding: 10px;
+}
+
+#c{
+    clear: both;
+}

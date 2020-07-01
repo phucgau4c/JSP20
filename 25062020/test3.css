@@ -1,0 +1,39 @@
+header{
+    height: 50px;
+    width: 100%;
+    background: blue;
+}
+
+#a{
+    float: left;
+    width: 20%;
+    height: 300px;
+    background: violet;
+}
+
+section{
+    float: left;
+    width: 60%;
+    height: 300px;
+    background: pink;
+    margin-top: 16px;
+}
+
+#b{
+    float: right;
+    width: 20%;
+    height:300px;
+    background: orange;
+}
+
+footer{
+    clear: both;
+    height: 50px;
+    width: 100%;
+    background: orchid;
+}
+
+#a p{
+    width: 50px;
+    text-align: center;
+}

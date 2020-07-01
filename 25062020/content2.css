@@ -1,0 +1,50 @@
+body{
+    background: #3498db;
+}
+
+#head{
+    background: white;
+    height: 600px;
+}
+
+.header{
+    border-bottom: 2px solid black;
+}
+
+#title{
+    float: right;
+    text-align: center;
+    width: 80%;
+}
+
+#head h3{
+    text-align: center;
+}
+
+.text{
+    float: right;
+    width: 30%;
+}
+
+section{
+    width: 69%;
+    float: left;
+    border-right: 1px solid black;
+}
+
+section img{
+    float: left;
+    padding: 20px;
+}
+
+footer{
+    height: 500px;
+    width: 100%;
+    border-top: 1px solid black;
+    font-size: 70%;
+    float: right;
+}
+
+footer p{
+    float: right;
+}

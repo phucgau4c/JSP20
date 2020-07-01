@@ -1,0 +1,14 @@
+.header{
+    float: right;
+    text-align: center;
+    width: 500px;
+}
+
+img{
+    margin-top: 20px;
+}
+
+.font{
+    font-size: 70%;
+    text-align: right;
+}
